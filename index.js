@@ -20,7 +20,7 @@ function setBestCustomer(){
 }
 
 function overWriteBestCustomer(newFavorite){
-  bestCustomer = "not you"
+  bestCustomer = "maybe bob"
 }
 
 
